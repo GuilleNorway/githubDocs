@@ -1,0 +1,6 @@
+-- Init
+git init
+git add
+git commit
+git remote add origin https://github.com/GuilleNorway/githubDocs.git
+git push -u origin master
